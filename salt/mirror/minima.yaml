@@ -85,6 +85,22 @@ scc:
     - SLE-Module-DevTools15-SP2-Updates
     - SLE-Module-Python2-15-SP2-Pool
     - SLE-Module-Python2-15-SP2-Update
+    # SLE 15-SP2 Products
+    - SLE-Product-SLES15-SP3-Pool
+    - SLE-Product-SLES15-SP3-Updates
+    # SLE 15-SP2 Basic Modules
+    - SLE-Module-Basesystem15-SP3-Pool
+    - SLE-Module-Basesystem15-SP3-Updates
+    - SLE-Module-Server-Applications15-SP3-Pool
+    - SLE-Module-Server-Applications15-SP3-Updates
+    - SLE-Module-Web-Scripting15-SP3-Pool
+    - SLE-Module-Web-Scripting15-SP3-Updates
+    - SLE-Module-Desktop-Applications15-SP3-Pool
+    - SLE-Module-Desktop-Applications15-SP3-Updates
+    - SLE-Module-DevTools15-SP3-Pool
+    - SLE-Module-DevTools15-SP3-Updates
+    - SLE-Module-Python2-15-SP3-Pool
+    - SLE-Module-Python2-15-SP3-Update
     # SLE Legacy Module
     - SLE-Module-Legacy12-Pool
     - SLE-Module-Legacy12-Updates
@@ -108,6 +124,10 @@ scc:
     - SLE-Product-SUSE-Manager-Server-4.1-Updates
     - SLE-Module-SUSE-Manager-Server-4.1-Pool
     - SLE-Module-SUSE-Manager-Server-4.1-Updates
+    - SLE-Product-SUSE-Manager-Server-4.2-Pool
+    - SLE-Product-SUSE-Manager-Server-4.2-Updates
+    - SLE-Module-SUSE-Manager-Server-4.2-Pool
+    - SLE-Module-SUSE-Manager-Server-4.2-Updates
     # SUSE Manager Proxy
     - SUSE-Manager-Proxy-3.2-Pool
     - SUSE-Manager-Proxy-3.2-Updates
@@ -119,6 +139,10 @@ scc:
     - SLE-Product-SUSE-Manager-Proxy-4.1-Updates
     - SLE-Module-SUSE-Manager-Proxy-4.1-Pool
     - SLE-Module-SUSE-Manager-Proxy-4.1-Updates
+    - SLE-Product-SUSE-Manager-Proxy-4.2-Pool
+    - SLE-Product-SUSE-Manager-Proxy-4.2-Updates
+    - SLE-Module-SUSE-Manager-Proxy-4.2-Pool
+    - SLE-Module-SUSE-Manager-Proxy-4.2-Updates
     # Retail Branch Server
     - SLE-Product-SUSE-Manager-Retail-Branch-Server-4.0-Pool
     - SLE-Product-SUSE-Manager-Retail-Branch-Server-4.0-Updates
@@ -128,6 +152,10 @@ scc:
     - SLE-Product-SUSE-Manager-Retail-Branch-Server-4.1-Updates
     - SLE-Module-SUSE-Manager-Retail-Branch-Server-4.1-Pool
     - SLE-Module-SUSE-Manager-Retail-Branch-Server-4.1-Updates
+    - SLE-Product-SUSE-Manager-Retail-Branch-Server-4.2-Pool
+    - SLE-Product-SUSE-Manager-Retail-Branch-Server-4.2-Updates
+    - SLE-Module-SUSE-Manager-Retail-Branch-Server-4.2-Pool
+    - SLE-Module-SUSE-Manager-Retail-Branch-Server-4.2-Updates
     # SUSE Manager Tools
     - SLES11-SP4-SUSE-Manager-Tools
     - SLE-Manager-Tools12-Pool
@@ -140,6 +168,20 @@ scc:
     - RES8-Manager-Tools-Updates
     - Ubuntu-16.04-SUSE-Manager-Tools
     - Ubuntu-18.04-SUSE-Manager-Tools
+    - Ubuntu-20.04-SUSE-Manager-Tools
+    # SUSE Manager Beta Tools
+    - SLES11-SP4-SUSE-Manager-Tools
+    - SLE-Manager-Tools12-Pool
+    - SLE-Manager-Tools12-Updates
+    - SLE-Manager-Tools15-Pool
+    - SLE-Manager-Tools15-Updates
+    - RES-6-SUSE-Manager-Tools
+    - RES-7-SUSE-Manager-Tools
+    - RES8-Manager-Tools-Pool
+    - RES8-Manager-Tools-Updates
+    - Ubuntu-16.04-SUSE-Manager-Tools-Beta
+    - Ubuntu-18.04-SUSE-Manager-Tools-Beta
+    - Ubuntu-20.04-SUSE-Manager-Tools-Beta
   archs: [x86_64, amd64]
 
 http:
